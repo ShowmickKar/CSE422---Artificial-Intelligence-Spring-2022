@@ -1,1 +1,1 @@
-# CSE422---Artificial-Intelligence-Spring-2022
+# CSE422-Artificial-Intelligence-Spring-2022
